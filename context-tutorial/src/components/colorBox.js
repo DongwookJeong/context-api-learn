@@ -1,4 +1,4 @@
-import ColorContext from "../context.js/color";
+import ColorContext from "../contexts/color";
 
 const ColorBox = () => {
     return (
